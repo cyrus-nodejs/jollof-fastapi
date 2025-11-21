@@ -1,0 +1,80 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.manifest
+
+# Environments
+.venv
+venv
+env/
+bin/
+include/
+lib/
+pip-log.txt
+pip-delete-this-arg.txt
+
+# Environment variables
+.env
+.env.*
+.flaskenv
+
+# FastAPI/Python-specific
+typings/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.nox/
+.spyder-py3/
+.tox/
+.gradle/
+.idea/ # For PyCharm/IntelliJ IDE
+.vscode/ # For VS Code IDE (consider keeping settings.json if useful for team)
+*.mo
+*.pot
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-*
+instance/
+.webassets-cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Celery
+celerybeat.pid
+
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-*
+/media
+/static
+/staticfiles
+
+# Flask stuff
+instance/
+.webassets-cache
