@@ -1,0 +1,11 @@
+# Mark all .ps1 files as vendored (ignored for language stats)
+*.ps1 linguist-vendored
+
+
+# Mark the entire scripts directory as vendored
+/scripts/ linguist-vendored
+
+
+
+# Force a specific file to be detected as Python
+path/to/your/file.ext linguist-language=Python
