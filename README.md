@@ -25,9 +25,12 @@ Optimized for low-RAM environments (e.g., Render Free Tier).
 
 # 🏗 Project Structure
 
+```text
 ├── main.py
 ├── requirements.txt
 └── README.fmd
+
+```
 
 
 ---
