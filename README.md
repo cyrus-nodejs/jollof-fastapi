@@ -40,7 +40,7 @@ Optimized for low-RAM environments (e.g., Render Free Tier).
 ### 1. Clone the project
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/cyrus-nodejs/jollof-fastapi.git
 cd embedding-service
 
 ```
